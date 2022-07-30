@@ -55,6 +55,3 @@ This Web App Automatically Generates Sudoku Puzzle Based on Various Difficulty L
 
 
 
-## 🤝 Contributing
-
-We encourage you to contribute to Sudoku Solver for Further Improvement! Please check out the [Contributing guide](/CONTRIBUTING.md) for guidelines about how to proceed.
